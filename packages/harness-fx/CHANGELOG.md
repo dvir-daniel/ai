@@ -1,5 +1,12 @@
 # @ai-sdk/harness-fx
 
+## 1.0.65
+
+### Patch Changes
+
+- @ai-sdk/harness@1.0.151
+- @ai-sdk/harness-acp@1.0.90
+
 ## 1.0.64
 
 ### Patch Changes
